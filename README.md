@@ -19,14 +19,24 @@ A challenge I faced while performing this analysis was organization. I had creat
 ### Analysis of Outcomes Based on Launch Date
 
 Looking at our dataset of play-based campaigns and when they were launched, we notice almost immediately that the most amount of successful campaigns begin in the month of may, at an impressive 111 successes.
+
+![theaterOutcomesVsLaunch](Resources/theaterOutcomesVsLaunch.png)
+
 However, this large spike distracts us from the fact that May also has the highest amount of failed kickstarter campaigns, at 52 failed when launching that month.
 Comparing these two statistics, we find that there is a 66.87% success rate for campaigns launched in May, which is still the highest success rate.
+
+![theaterOutcomesVsLaunchTable](Resources/theaterOutcomesVsLaunchTable.PNG)
 
 ### Analysis of Outcomes Based on Goals
 
 Looking at the tables created, comparing which campaigns were successful and which ones were failures by goal bracket, we find that smaller funding goals tend to lead to more successful campaigns than high set funding goals.
+
+![outcomesBasedOnGoals](Resources/outcomesBasedOnGoals.png)
+
 The ideal range for goal setting would be up to $5,000, as that boasts up to a 72.66% success rate comapared to higher set funding goals.
 Going higher is possible, but not ideal as success margins drop drastically once crossing that $5,000 threshhold, down to 55.03% success rate if the goal is set between $5,000 and $10,000, with success rates dropping the higher the goal.
+
+![outcomesBasedOnGoalsTable](Resources/outcomesBasedOnGoalsTable.PNG)
 
 
 ### Challenges and Difficulties Encountered
@@ -34,6 +44,9 @@ Going higher is possible, but not ideal as success margins drop drastically once
 One difficulty that some might encounter would be valuing promising percentages that lean in your favour without considering that specific dataset size.
 As an example, viewing our Outcomes based on Goals graph, we see that success rates are high when a campaign sets its funding goal anywhere between $35,000 and $45,000.
 The success rate of 66.67% may not be true, as that dataset consists of a total of 9 campaigns.
+
+![outcomesBasedOnGoalsTable](Resources/outcomesBasedOnGoalsTable.PNG)
+
 With only 9 total campaigns placed within this bracket, it is difficult to measure if this is consistant or if there are outlying data points here.
 More campaigns would need to happen within this bracket to obtain a conclusive answer.
 
