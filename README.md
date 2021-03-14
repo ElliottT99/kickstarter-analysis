@@ -6,7 +6,7 @@ At request of Louise, I have created graphs from the provided datasets in order 
 
 ### Purpose
 
-This analyzes was conducted for Louise in order to compare other play-based kickstarter campaigns, whether they suceeded or failed, based on their launch dates as well as their set fundraising goals.
+This analysis was conducted for Louise in order to compare other play-based kickstarter campaigns, whether they suceeded or failed, based on their launch dates as well as their set fundraising goals.
 
 ## Analysis and Challenges
 
